@@ -3,6 +3,8 @@ Web.Optimization.Bundles.Compass
 
 Compass SASS/SCSS processing for System.Web.Optimization bundles.
 
+#### [Download NuGet Package](https://nuget.org/packages/Web.Optimization.Bundles.Compass)
+
 ### Usage
 You need to have [Ruby](http://rubyinstaller.org/downloads/) and [Compass](http://compass-style.org/install/) installed.    
 Also, the Ruby `bin` path must be placed in your `Path` environment variable.  
